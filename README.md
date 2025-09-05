@@ -116,7 +116,8 @@ skincarestore/
 │── index.php
 │── ...
 ```
-
+username : dini
+password : dini
 ---
 
 ## ✨ Teknologi yang Digunakan
